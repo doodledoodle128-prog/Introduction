@@ -1,0 +1,6 @@
+print(12)
+number = 10
+print(number)
+
+print("\nhi \n")
+print("the value of 'A' is",number)
